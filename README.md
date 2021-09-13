@@ -3,4 +3,4 @@
 2. Реализовать crud каждой сущности. 
 3. Комментарии можно прикреплять только к книгам или статьям.
 4. Реализовать вывод,редактирование,добавление,удаление каждой сущности с комментариями
-[alt text](./scrn.png?raw=true)
+[alt text](https://raw.githubusercontent.com/mymywork/php-entities-crud-testwork/master/scrn.png)
